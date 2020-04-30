@@ -49,8 +49,15 @@ b. Software
   
   • PhpMyAdmin 4.5.1 
   
-  • Browser: Google Chrome
+  • Browser: Google Chrome or Mozilla Firefox
   
 # How to run the code 
 
 1. start XAMPP
+
+![xampp](https://user-images.githubusercontent.com/56558752/80671954-814a0380-8ad5-11ea-9eb4-abc891a90dd8.JPG)
+
+2. open your browser, and import database dsc.sql into phpMyAdmin
+
+3. new tab on your browser,
+

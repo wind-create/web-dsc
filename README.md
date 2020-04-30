@@ -56,6 +56,9 @@ b. Software
 ![xampp](https://user-images.githubusercontent.com/56258766/80678092-7185eb80-8ae4-11ea-9ac9-5a5bb01b8bab.PNG)
 
 2. Open your browser, and import database dsc.sql into phpMyAdmin
+```bash
+dsc.sql
+```
 
 # For Member
 

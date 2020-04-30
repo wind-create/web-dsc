@@ -57,6 +57,8 @@ b. Software
 
 2. Open your browser, and import database dsc.sql into phpMyAdmin
 
+# For member
+
 3. Type on your address bar this link below to access Web DSC USU
 
 ![3](https://user-images.githubusercontent.com/56258766/80680081-55844900-8ae8-11ea-8b00-f2186665f010.PNG)

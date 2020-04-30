@@ -53,7 +53,7 @@ b. Software
 
 1. start XAMPP
 
-![1](https://user-images.githubusercontent.com/56258766/80678092-7185eb80-8ae4-11ea-9ac9-5a5bb01b8bab.PNG)
+![xampp](https://user-images.githubusercontent.com/56258766/80678092-7185eb80-8ae4-11ea-9ac9-5a5bb01b8bab.PNG)
 
 2. open your browser, and import database dsc.sql into phpMyAdmin
 

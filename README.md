@@ -13,13 +13,19 @@ personal or commercial needs without having to pay for an existing license. SQL 
 CodeIgniter is a PHP Framework that runs on PHP 4 and PHP 5 (Basuki, 2010). The main purpose of CodeIgniter is to make programmers easier in developing applications quickly without having to do programming from zero. Thus, PHP programmers who have a programming basis can work faster to produce the required application.
 #  Bootstrap
 Bootstrap is a CSS framework library created specifically for parts development front-end the website. Bootstrap is also one framework development front-end the website. Bootstrap is also one framework development front-end the website. Bootstrap is also one framework development front-end the website. Bootstrap is also one framework HTML, CSS and javascript are the most popular among web developer that HTML, CSS and javascript are the most popular among web developer that HTML, CSS and javascript are the most popular among web developer that used to develop a website that is responsive so that the page the website can later adjust according to size monitor device ( desktop, the website can later adjust according to size monitor device ( desktop, the website can later adjust according to size monitor device ( desktop, tablets, cellphones) that users use when accessing websites from the browser. At first the bootstrap named "Twitter Blueprint" was developed by Mark Otto and Jacob Thornton on Twitter as a framework for encourage consistency in internal tools. 
+
 By using Bootstrap a developer can easily and fast in making front-end a website. You only need to call class-fast in making front-end a website. You only need to call class-fast in making front-end a website. You only need to call classthe required class, for example creating buttons, grids, tables, navigation and more. 
+
 Bootstrap has provided a collection of basic interface class components has been designed in such a way as to create an attractive appearance and light. In addition to the interface class component, bootstrap also has a grid function to adjust the layout on web pages. Besides that, the developer too can add classes and CSS themselves, making it possible to create more varied designs. One example of a website that uses framework more varied designs. One example of a website that uses framework Bootstrap is Twitter. Bootstrap itself is actually developed by the developer Twitter so bootstrap is often also called "Twitter Bootstrap". 
 Bootstrap itself is compatible with the latest versions of several browsers like Google Chrome, Firefox, Internet Explorer, and Safari Browser. Although Some of these browsers are not supported on all platforms. 
 Some reasons why there are currently quite a lot of developers using it Bootstrapping in creating a front-end website, that is because of several advantages owned by Bootstrap itself which include: 
+
  • Can speed up the process of creating a front-end website 
+ 
  • Bootstrap display that is quite modern. 
+ 
  • Bootsrap display is responsive, so it supports all types resolution, be it PC, tablet and smartphone. • The website becomes very light when accessed, because bootsrap is made with very structured. 
+ 
 # Research Tools 
 The resources used in conducting this research are using some hardware and software with specifications: 
 
@@ -30,9 +36,15 @@ a. Hardware
 b. Software 
 
   • Microsoft Windows OS 10 
+  
   • Adobe Illustrator 
+  
   • Sublime Text 3 
+  
   • XAMPP control panel v3.2.2 
+  
   • MySQL 
+  
   • PhpMyAdmin 4.5.1 
+  
   • Browser: Google Chrome

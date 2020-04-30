@@ -53,3 +53,4 @@ b. Software
   
 # How to run the code 
 
+1. start XAMPP

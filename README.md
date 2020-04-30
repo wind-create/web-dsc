@@ -75,7 +75,7 @@ b. Software
 
 7. You can go to Event tab for see upcoming events and event that already held by DSC USU
 
-![7](https://user-images.githubusercontent.com/56258766/80680092-5917d000-8ae8-11ea-98f6-8f8602fbd760.PNG)
+![7](https://user-images.githubusercontent.com/56258766/80682357-89fa0400-8aec-11ea-89f3-8a16af156b4b.PNG)
 
 8. You can go to Berita tab for see news related to DSC USU
 

@@ -19,3 +19,15 @@ Bootstrap itself is compatible with the latest versions of several browsers like
 Some reasons why there are currently quite a lot of developers using it Bootstrapping in creating a front-end website, that is because of several advantages owned by Bootstrap itself which include: • Can speed up the process of creating a front-end website 
 • Bootstrap display that is quite modern. 
 • Bootsrap display is responsive, so it supports all types resolution, be it PC, tablet and smartphone. • The website becomes very light when accessed, because bootsrap is made with very structured. 
+# Research Tools 
+The resources used in conducting this research are using some hardware and software with specifications: 
+a. Hardware 
+  • For server (during program creation) Intel (R) Core (TM) CPU i3-3217U, GB RAM, 319 GB HDD 
+b. Software 
+  • Microsoft Windows OS 10 
+  • Adobe Illustrator 
+  • Sublime Text 3 
+  • XAMPP control panel v3.2.2 
+  • MySQL 
+  • PhpMyAdmin 4.5.1 
+  • Browser: Google Chrome

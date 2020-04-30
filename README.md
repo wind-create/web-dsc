@@ -51,11 +51,33 @@ b. Software
   
 # How to run the code 
 
-1. start XAMPP
+1. Start XAMPP
 
 ![xampp](https://user-images.githubusercontent.com/56258766/80678092-7185eb80-8ae4-11ea-9ac9-5a5bb01b8bab.PNG)
 
-2. open your browser, and import database dsc.sql into phpMyAdmin
+2. Open your browser, and import database dsc.sql into phpMyAdmin
 
-3. new tab on your browser,
+3. Type on your address bar this link below to access Web DSC USU
+
+![3](https://user-images.githubusercontent.com/56258766/80680081-55844900-8ae8-11ea-8b00-f2186665f010.PNG)
+
+4. Here what you will see after following steps correctly
+
+![4](https://user-images.githubusercontent.com/56258766/80680083-561cdf80-8ae8-11ea-9a9b-cb087234065e.PNG)
+
+5. Click Login on upper right web for Login to Web DSC USU and you will get pop up like picture below
+
+![5](https://user-images.githubusercontent.com/56258766/80680089-57e6a300-8ae8-11ea-8b45-e2bc387ec820.PNG)
+
+6. Click Register on upper right web for Registering to WEB DSC USU and you will get pop up like picture below
+
+![6](https://user-images.githubusercontent.com/56258766/80680090-587f3980-8ae8-11ea-8e09-c7aa0e9c13e5.PNG)
+
+7. You can go to Event tab for see upcoming events and event that already held by DSC USU
+
+![7](https://user-images.githubusercontent.com/56258766/80680092-5917d000-8ae8-11ea-98f6-8f8602fbd760.PNG)
+
+8. You can go to Berita tab for see news related to DSC USU
+
+![8](https://user-images.githubusercontent.com/56258766/80680093-59b06680-8ae8-11ea-9023-9635c460af1d.PNG)
 

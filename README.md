@@ -1,5 +1,5 @@
 # web-dsc
-
+With the rapid development of the programming world, we developing the Developer Student Clubs application system. Such that together, that the participant registration system for participating in events is The Student Club Developer held is still manual which is considered still ineffective. The absence of a separate online system that results in a lack of openness information, difficulties in terms of data collection, scheduling, lack of openness in terms of procuring event lists and lack of student interest in participating in that event held by Developer Student Clubs. Through the system that we made later is expected to correct the shortcomings of the current and manual system make the system run according to the rules of human and computer interaction the good one.
 # PHP
 PHP is short for the word Hypertext Preprocessor. PHP is classified as open source software which is regulated in the General Purpose rules Licenses (GPL). PHP is classified as a server-based programming language ( server side scripting) which means that all PHP scripts are put on the server and ( server side scripting) which means that all PHP scripts are put on the server and ( server side scripting) which means that all PHP scripts are put on the server and translated by the web server first, then the results of the translation are sent 
 to the client browser. 

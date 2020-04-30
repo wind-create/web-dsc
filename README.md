@@ -9,6 +9,8 @@ HTML and CSS have a close attachment. Because HTML is a language markup (site fo
 # MYSQL
 MySQL is an open source DBMS with two forms of license, namely Free Software (free software) and Shareware (proprietary software that is limited use). So MySQL is a free database server with GNU General Public License (GPL) so you can use it for 
 personal or commercial needs without having to pay for an existing license. SQL itself is a language used in data retrieval in a relational database or structured database. So, MySQL is a database management system that uses SQL as the connecting language between application software and database server. 
+# XAMPP
+XAMPP is a compilation of free software (comparable to a Linux distribution), it's free of charge and it's free to copy under the terms of the GNU General Public Licence. But it is only the compilation of XAMPP that is published under GPL. Please check every single licence of the contained products to get an overview of what is, and what isn't, allowed. In the case of commercial use please take a look at the product licences (especially MySQL), from the XAMPP point of view commercial use is also free.
 #  CodeIgniter
 CodeIgniter is a PHP Framework that runs on PHP 4 and PHP 5 (Basuki, 2010). The main purpose of CodeIgniter is to make programmers easier in developing applications quickly without having to do programming from zero. Thus, PHP programmers who have a programming basis can work faster to produce the required application.
 #  Bootstrap
@@ -31,7 +33,7 @@ The resources used in conducting this research are using some hardware and softw
 
 a. Hardware 
 
-  • For server (during program creation) Intel (R) Core (TM) CPU i3-3217U, GB RAM, 319 GB HDD 
+  • For server (during program creation) Intel (R) Core (TM) CPU i3-3217U, 1 GB RAM, 319 GB HDD 
   
 b. Software 
 
@@ -48,3 +50,6 @@ b. Software
   • PhpMyAdmin 4.5.1 
   
   • Browser: Google Chrome
+  
+# How to run the code 
+

@@ -145,8 +145,8 @@ class Client extends CI_Controller {
 					'protocol' => 'smtp',
 					'smtp_host' => 'ssl://smtp.googlemail.com',
 					'smtp_port' => 465,
-		  		'smtp_user' => 'usudscmedan@gmail.com', // change it to yours
-		  		'smtp_pass' => 'dscusumedan123', // change it to yours
+		  		'smtp_user' => 'emailnya isi sendiri', // change it to yours
+		  		'smtp_pass' => 'passwordnya isi sendiri', // change it to yours
 		  		'smtp_username' => 'armg3295',
 		  		'mailtype' => 'html',
 		  		'charset' => 'iso-8859-1',
